@@ -4,3 +4,7 @@
 
 Core concepts:
 Cloudwatch is a metric repository.
+
+Question:
+For example, when RDS CPU exceeds 70%, trigger an alarm, is it possibel triggering Ladama function to pull out DB status?
+Such as, active processes, and operations. 
